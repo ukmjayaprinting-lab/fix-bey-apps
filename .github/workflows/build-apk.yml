@@ -1,0 +1,69 @@
+name: Build APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: '3.27.4'
+          cache: true
+
+      - name: Flutter doctor (debug)
+        run: flutter doctor -v
+        continue-on-error: true
+
+      - name: Buat kerangka Android
+        run: |
+          flutter create --platforms=android --org id.beyxstok --project-name beyx_stok .
+
+      - name: Izin internet dan nama aplikasi
+        run: |
+          M=android/app/src/main/AndroidManifest.xml
+          if ! grep -q 'android.permission.INTERNET' "$M"; then
+            sed -i 's#<application#<uses-permission android:name="android.permission.INTERNET"/>\n    <application#' "$M"
+          fi
+          sed -i 's#android:label="[^"]*"#android:label="Beyblade X Stok"#' "$M"
+          grep -n "INTERNET\|android:label" "$M"
+          if ! grep -q 'android.permission.INTERNET' "$M"; then
+            echo "ERROR: INTERNET permission tidak ditemukan di AndroidManifest.xml"
+            exit 1
+          fi
+
+      - run: flutter pub get
+
+      - name: Analisis kode (tidak menggagalkan build)
+        run: flutter analyze
+        continue-on-error: true
+
+      - name: Tes unit (tidak menggagalkan build)
+        run: flutter test
+        continue-on-error: true
+
+      - name: Build APK
+        # CATATAN: APK di-sign dengan debug key bawaan Flutter.
+        # Cukup untuk sideload/pemakaian pribadi, tidak untuk Play Store.
+        run: flutter build apk --release
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: beyx-stok-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
