@@ -1,0 +1,23 @@
+name: beyx_stok
+description: Inventaris Beyblade X dan penyusun deck 3 kombo.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  html: ^0.15.6
+  shared_preferences: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/

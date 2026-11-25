@@ -1,0 +1,738 @@
+{
+ "format": "beyx-stok",
+ "version": 1,
+ "units": [
+  {
+   "id": "u001",
+   "kind": "blade",
+   "name": "Silver Wolf",
+   "detail": "new"
+  },
+  {
+   "id": "u002",
+   "kind": "blade",
+   "name": "Tyranno Roar",
+   "detail": "used"
+  },
+  {
+   "id": "u003",
+   "kind": "blade",
+   "name": "METEOR Dragoon",
+   "detail": "new"
+  },
+  {
+   "id": "u004",
+   "kind": "blade",
+   "name": "METEOR Dragoon",
+   "detail": "used"
+  },
+  {
+   "id": "u005",
+   "kind": "blade",
+   "name": "Leon Claw",
+   "detail": "new"
+  },
+  {
+   "id": "u006",
+   "kind": "blade",
+   "name": "Impact Drake",
+   "detail": "used"
+  },
+  {
+   "id": "u007",
+   "kind": "lockChip",
+   "name": "Croco",
+   "detail": "new"
+  },
+  {
+   "id": "u008",
+   "kind": "overBlade",
+   "name": "Tough",
+   "detail": "new"
+  },
+  {
+   "id": "u009",
+   "kind": "mainBlade",
+   "name": "Tread",
+   "detail": "new"
+  },
+  {
+   "id": "u010",
+   "kind": "assist",
+   "name": "Quell",
+   "detail": "new"
+  },
+  {
+   "id": "u011",
+   "kind": "lockChip",
+   "name": "Ragna",
+   "detail": "used"
+  },
+  {
+   "id": "u012",
+   "kind": "overBlade",
+   "name": "Flow",
+   "detail": "used"
+  },
+  {
+   "id": "u013",
+   "kind": "mainBlade",
+   "name": "Rage",
+   "detail": "used"
+  },
+  {
+   "id": "u014",
+   "kind": "assist",
+   "name": "Erase",
+   "detail": "used"
+  },
+  {
+   "id": "u015",
+   "kind": "blade",
+   "name": "Samurai Saber",
+   "detail": "new"
+  },
+  {
+   "id": "u016",
+   "kind": "blade",
+   "name": "Hells Nether",
+   "detail": "used"
+  },
+  {
+   "id": "u017",
+   "kind": "blade",
+   "name": "Hover Wyvern",
+   "detail": "used"
+  },
+  {
+   "id": "u018",
+   "kind": "blade",
+   "name": "Knight MAIL",
+   "detail": "used"
+  },
+  {
+   "id": "u019",
+   "kind": "blade",
+   "name": "Whale Wave",
+   "detail": "new"
+  },
+  {
+   "id": "u020",
+   "kind": "blade",
+   "name": "Golem Rock",
+   "detail": "new"
+  },
+  {
+   "id": "u021",
+   "kind": "blade",
+   "name": "Tyranno Beat",
+   "detail": "used"
+  },
+  {
+   "id": "u022",
+   "kind": "blade",
+   "name": "Tyranno Beat",
+   "detail": "used"
+  },
+  {
+   "id": "u023",
+   "kind": "blade",
+   "name": "Golem Rock",
+   "detail": "new"
+  },
+  {
+   "id": "u024",
+   "kind": "blade",
+   "name": "Knight MAIL",
+   "detail": "new"
+  },
+  {
+   "id": "u025",
+   "kind": "blade",
+   "name": "Hells Nether",
+   "detail": "new"
+  },
+  {
+   "id": "u026",
+   "kind": "blade",
+   "name": "Phoenix Wing",
+   "detail": "new"
+  },
+  {
+   "id": "u027",
+   "kind": "blade",
+   "name": "Wizard Rod",
+   "detail": "new"
+  },
+  {
+   "id": "u028",
+   "kind": "blade",
+   "name": "Wizard Rod",
+   "detail": "used"
+  },
+  {
+   "id": "u029",
+   "kind": "blade",
+   "name": "Hover Wyvern",
+   "detail": "new"
+  },
+  {
+   "id": "u030",
+   "kind": "blade",
+   "name": "Glory Valkyrie",
+   "detail": "new"
+  },
+  {
+   "id": "u031",
+   "kind": "blade",
+   "name": "Silver Wolf",
+   "detail": "new"
+  },
+  {
+   "id": "u032",
+   "kind": "blade",
+   "name": "Tyranno Roar",
+   "detail": "used"
+  },
+  {
+   "id": "u033",
+   "kind": "blade",
+   "name": "Golem Rock",
+   "detail": "new"
+  },
+  {
+   "id": "u034",
+   "kind": "blade",
+   "name": "Shark Scale",
+   "detail": "new"
+  },
+  {
+   "id": "u035",
+   "kind": "blade",
+   "name": "Whale Wave",
+   "detail": "new"
+  },
+  {
+   "id": "u036",
+   "kind": "lockChip",
+   "name": "Hells",
+   "detail": "new"
+  },
+  {
+   "id": "u037",
+   "kind": "mainBlade",
+   "name": "Arc",
+   "detail": "new"
+  },
+  {
+   "id": "u038",
+   "kind": "assist",
+   "name": "Turn",
+   "detail": "new"
+  },
+  {
+   "id": "u039",
+   "kind": "lockChip",
+   "name": "Hells",
+   "detail": "new"
+  },
+  {
+   "id": "u040",
+   "kind": "mainBlade",
+   "name": "Brave",
+   "detail": "new"
+  },
+  {
+   "id": "u041",
+   "kind": "assist",
+   "name": "Jaggy",
+   "detail": "new"
+  },
+  {
+   "id": "u042",
+   "kind": "blade",
+   "name": "Knight Shield",
+   "detail": "new"
+  },
+  {
+   "id": "u043",
+   "kind": "blade",
+   "name": "Hells Schyte",
+   "detail": "new"
+  },
+  {
+   "id": "u044",
+   "kind": "blade",
+   "name": "Wizard Arrow",
+   "detail": "new"
+  },
+  {
+   "id": "u045",
+   "kind": "blade",
+   "name": "Hells Hammer",
+   "detail": "used"
+  },
+  {
+   "id": "u046",
+   "kind": "blade",
+   "name": "Shark Gill",
+   "detail": "new"
+  },
+  {
+   "id": "u047",
+   "kind": "ratchet",
+   "name": "M85",
+   "detail": "ungu"
+  },
+  {
+   "id": "u048",
+   "kind": "ratchet",
+   "name": "4-60",
+   "detail": "merah bening"
+  },
+  {
+   "id": "u049",
+   "kind": "ratchet",
+   "name": "8-80",
+   "detail": "putih hijau"
+  },
+  {
+   "id": "u050",
+   "kind": "ratchet",
+   "name": "5-70",
+   "detail": "putih bening"
+  },
+  {
+   "id": "u051",
+   "kind": "ratchet",
+   "name": "9-80",
+   "detail": "oranye merah"
+  },
+  {
+   "id": "u052",
+   "kind": "ratchet",
+   "name": "5-60",
+   "detail": "putih bening"
+  },
+  {
+   "id": "u053",
+   "kind": "ratchet",
+   "name": "M85",
+   "detail": "ungu"
+  },
+  {
+   "id": "u054",
+   "kind": "ratchet",
+   "name": "3-60",
+   "detail": "hijau"
+  },
+  {
+   "id": "u055",
+   "kind": "ratchet",
+   "name": "1-70",
+   "detail": "merah bening"
+  },
+  {
+   "id": "u056",
+   "kind": "ratchet",
+   "name": "4-50",
+   "detail": "biru merah"
+  },
+  {
+   "id": "u057",
+   "kind": "ratchet",
+   "name": "3-70",
+   "detail": "merah merah"
+  },
+  {
+   "id": "u058",
+   "kind": "ratchet",
+   "name": "2-60",
+   "detail": "biru merah"
+  },
+  {
+   "id": "u059",
+   "kind": "ratchet",
+   "name": "4-50",
+   "detail": "biru merah"
+  },
+  {
+   "id": "u060",
+   "kind": "ratchet",
+   "name": "3-70",
+   "detail": "biru bening"
+  },
+  {
+   "id": "u061",
+   "kind": "ratchet",
+   "name": "9-60",
+   "detail": "merah bening"
+  },
+  {
+   "id": "u062",
+   "kind": "ratchet",
+   "name": "3-60",
+   "detail": "hijau hijau"
+  },
+  {
+   "id": "u063",
+   "kind": "ratchet",
+   "name": "1-60",
+   "detail": "kuning coklat"
+  },
+  {
+   "id": "u064",
+   "kind": "ratchet",
+   "name": "9-60",
+   "detail": "merah bening"
+  },
+  {
+   "id": "u065",
+   "kind": "ratchet",
+   "name": "5-60",
+   "detail": "putih bening"
+  },
+  {
+   "id": "u066",
+   "kind": "ratchet",
+   "name": "3-60",
+   "detail": "hijau hijau"
+  },
+  {
+   "id": "u067",
+   "kind": "ratchet",
+   "name": "9-70",
+   "detail": "biru ungu"
+  },
+  {
+   "id": "u068",
+   "kind": "ratchet",
+   "name": "1-70",
+   "detail": "merah bening"
+  },
+  {
+   "id": "u069",
+   "kind": "ratchet",
+   "name": "M85",
+   "detail": "ungu"
+  },
+  {
+   "id": "u070",
+   "kind": "ratchet",
+   "name": "9-70",
+   "detail": "biru ungu"
+  },
+  {
+   "id": "u071",
+   "kind": "ratchet",
+   "name": "8-80",
+   "detail": "putih hijau"
+  },
+  {
+   "id": "u072",
+   "kind": "ratchet",
+   "name": "3-70",
+   "detail": "biru bening"
+  },
+  {
+   "id": "u073",
+   "kind": "ratchet",
+   "name": "4-50",
+   "detail": "biru merah"
+  },
+  {
+   "id": "u074",
+   "kind": "ratchet",
+   "name": "4-50",
+   "detail": "biru merah"
+  },
+  {
+   "id": "u075",
+   "kind": "ratchet",
+   "name": "4-50",
+   "detail": "biru merah"
+  },
+  {
+   "id": "u076",
+   "kind": "ratchet",
+   "name": "6-60",
+   "detail": "putih merah"
+  },
+  {
+   "id": "u077",
+   "kind": "ratchet",
+   "name": "8-80",
+   "detail": "putih hijau"
+  },
+  {
+   "id": "u078",
+   "kind": "bit",
+   "name": "Ball",
+   "detail": "putih"
+  },
+  {
+   "id": "u079",
+   "kind": "bit",
+   "name": "Point",
+   "detail": "merah clear"
+  },
+  {
+   "id": "u080",
+   "kind": "bit",
+   "name": "Taper",
+   "detail": "merah"
+  },
+  {
+   "id": "u081",
+   "kind": "bit",
+   "name": "High Needle",
+   "detail": "putih"
+  },
+  {
+   "id": "u082",
+   "kind": "bit",
+   "name": "Trans Point",
+   "detail": "putih"
+  },
+  {
+   "id": "u083",
+   "kind": "bit",
+   "name": "Orb",
+   "detail": "biru muda"
+  },
+  {
+   "id": "u084",
+   "kind": "bit",
+   "name": "Trans Point",
+   "detail": "ungu"
+  },
+  {
+   "id": "u085",
+   "kind": "bit",
+   "name": "Low Flat",
+   "detail": "biru"
+  },
+  {
+   "id": "u086",
+   "kind": "bit",
+   "name": "Under Flat",
+   "detail": "biru"
+  },
+  {
+   "id": "u087",
+   "kind": "bit",
+   "name": "Gear Flat",
+   "detail": "hitam"
+  },
+  {
+   "id": "u088",
+   "kind": "bit",
+   "name": "Jolt",
+   "detail": "ungu"
+  },
+  {
+   "id": "u089",
+   "kind": "bit",
+   "name": "Ball",
+   "detail": "oranye"
+  },
+  {
+   "id": "u090",
+   "kind": "bit",
+   "name": "High Needle",
+   "detail": "putih"
+  },
+  {
+   "id": "u091",
+   "kind": "bit",
+   "name": "Point",
+   "detail": "biru"
+  },
+  {
+   "id": "u092",
+   "kind": "bit",
+   "name": "Ball",
+   "detail": "kuning neon"
+  },
+  {
+   "id": "u093",
+   "kind": "bit",
+   "name": "Free Ball",
+   "detail": "biru muda"
+  },
+  {
+   "id": "u094",
+   "kind": "bit",
+   "name": "Disk Ball",
+   "detail": "putih"
+  },
+  {
+   "id": "u095",
+   "kind": "bit",
+   "name": "High Needle",
+   "detail": "putih"
+  },
+  {
+   "id": "u096",
+   "kind": "bit",
+   "name": "Bounce Spike",
+   "detail": "hijau"
+  },
+  {
+   "id": "u097",
+   "kind": "bit",
+   "name": "Gear Point",
+   "detail": "biru"
+  },
+  {
+   "id": "u098",
+   "kind": "bit",
+   "name": "Disk Ball",
+   "detail": "kuning"
+  },
+  {
+   "id": "u099",
+   "kind": "bit",
+   "name": "Orb",
+   "detail": "biru muda"
+  },
+  {
+   "id": "u100",
+   "kind": "bit",
+   "name": "Hexa",
+   "detail": "merah"
+  },
+  {
+   "id": "u101",
+   "kind": "bit",
+   "name": "Point",
+   "detail": "biru"
+  },
+  {
+   "id": "u102",
+   "kind": "bit",
+   "name": "Level",
+   "detail": "hitam"
+  },
+  {
+   "id": "u103",
+   "kind": "bit",
+   "name": "Hexa",
+   "detail": "merah"
+  },
+  {
+   "id": "u104",
+   "kind": "bit",
+   "name": "Rush",
+   "detail": "hitam"
+  },
+  {
+   "id": "u105",
+   "kind": "bit",
+   "name": "Kick",
+   "detail": "putih"
+  },
+  {
+   "id": "u106",
+   "kind": "bit",
+   "name": "Low Flat",
+   "detail": "biru"
+  },
+  {
+   "id": "u107",
+   "kind": "bit",
+   "name": "Taper",
+   "detail": "merah"
+  },
+  {
+   "id": "u108",
+   "kind": "bit",
+   "name": "High Needle",
+   "detail": "putih"
+  },
+  {
+   "id": "u109",
+   "kind": "bit",
+   "name": "Rush",
+   "detail": "hitam"
+  },
+  {
+   "id": "u110",
+   "kind": "bit",
+   "name": "Gear Flat",
+   "detail": "kuning"
+  },
+  {
+   "id": "u111",
+   "kind": "bit",
+   "name": "Free Ball",
+   "detail": "biru"
+  },
+  {
+   "id": "u112",
+   "kind": "bit",
+   "name": "Zap",
+   "detail": "oranye"
+  },
+  {
+   "id": "u113",
+   "kind": "bit",
+   "name": "Level",
+   "detail": "hitam"
+  },
+  {
+   "id": "u114",
+   "kind": "bit",
+   "name": "Bounce Spike",
+   "detail": "hijau"
+  },
+  {
+   "id": "u115",
+   "kind": "bit",
+   "name": "Ball",
+   "detail": "hijau"
+  },
+  {
+   "id": "u116",
+   "kind": "bit",
+   "name": "Level",
+   "detail": "hitam"
+  },
+  {
+   "id": "u117",
+   "kind": "bit",
+   "name": "Under Flat",
+   "detail": "biru"
+  },
+  {
+   "id": "u118",
+   "kind": "launcher",
+   "name": "Winder putih (left)",
+   "detail": "new"
+  },
+  {
+   "id": "u119",
+   "kind": "launcher",
+   "name": "Winder hitam (right)",
+   "detail": "new"
+  },
+  {
+   "id": "u120",
+   "kind": "launcher",
+   "name": "Winder hitam (right)",
+   "detail": "new"
+  },
+  {
+   "id": "u121",
+   "kind": "launcher",
+   "name": "String biru (right)",
+   "detail": "new"
+  },
+  {
+   "id": "u122",
+   "kind": "launcher",
+   "name": "Winder putih (left)",
+   "detail": "new"
+  }
+ ]
+}

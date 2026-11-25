@@ -1,0 +1,1229 @@
+{
+  "format": "beyx-kombo",
+  "version": 1,
+  "source": "Legacy offline snapshot from previous app version (not a live Beydle dataset)",
+  "asOf": "2026-11-17",
+  "scope": "Fallback offline data only. The live updater targets Beydle all-time; this snapshot is retained solely to protect existing offline use until a valid live sync succeeds.",
+  "combos": [
+    {
+      "id": "bw001",
+      "label": "Aero Pegasus 1-60 Rush",
+      "tier": "X",
+      "topCuts": 2404,
+      "firstRate": 37.1,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Aero Pegasus"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw002",
+      "label": "Shark Scale 1-70 Low Rush",
+      "tier": "X",
+      "topCuts": 5505,
+      "firstRate": 35.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Shark Scale"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-70"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw003",
+      "label": "Wizard Rod 1-60 Hexa",
+      "tier": "X",
+      "topCuts": 7138,
+      "firstRate": 35.3,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Wizard Rod"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Hexa"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw004",
+      "label": "Knight Shield 5-60 Orb",
+      "tier": "X",
+      "topCuts": 138,
+      "firstRate": 37.7,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Knight Shield"
+        },
+        {
+          "kind": "ratchet",
+          "name": "5-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Orb"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw005",
+      "label": "Emperor Blast Heavy 9-60 Kick",
+      "tier": "X",
+      "topCuts": 1357,
+      "firstRate": 36.7,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Emperor"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Blast"
+        },
+        {
+          "kind": "assist",
+          "name": "Heavy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw006",
+      "label": "Glory Valkyrie Kick",
+      "tier": "S",
+      "topCuts": 450,
+      "firstRate": 34.7,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Glory Valkyrie"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": "Ratchet tidak tercantum di sumber; periksa apakah blade ini memakai ratchet terintegrasi."
+    },
+    {
+      "id": "bw007",
+      "label": "Cobalt Dragoon 5-60 Elevate",
+      "tier": "S",
+      "topCuts": 2578,
+      "firstRate": 33.8,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Cobalt Dragoon"
+        },
+        {
+          "kind": "ratchet",
+          "name": "5-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Elevate"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw008",
+      "label": "Hover Wyvern 9-60 Kick",
+      "tier": "S",
+      "topCuts": 2116,
+      "firstRate": 33.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Hover Wyvern"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw009",
+      "label": "Sieg Superion 7-60 Kick",
+      "tier": "S",
+      "topCuts": 138,
+      "firstRate": 35.5,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Sieg Superion"
+        },
+        {
+          "kind": "ratchet",
+          "name": "7-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw010",
+      "label": "Meteor Dragoon 7-60 Level",
+      "tier": "S",
+      "topCuts": 811,
+      "firstRate": 33.5,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Meteor Dragoon"
+        },
+        {
+          "kind": "ratchet",
+          "name": "7-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Level"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw011",
+      "label": "Dran Strike 9-60 Kick",
+      "tier": "S",
+      "topCuts": 381,
+      "firstRate": 33.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Dran Strike"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw012",
+      "label": "Emperor Delta Peak Heavy 9-60 Kick",
+      "tier": "S",
+      "topCuts": 162,
+      "firstRate": 35.2,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Emperor"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Delta"
+        },
+        {
+          "kind": "overBlade",
+          "name": "Peak"
+        },
+        {
+          "kind": "assist",
+          "name": "Heavy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw013",
+      "label": "Mummy Curse 9-60 Wedge",
+      "tier": "S",
+      "topCuts": 220,
+      "firstRate": 34.5,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Mummy Curse"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Wedge"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw014",
+      "label": "Bahamut Blitz Break Heavy 1-50 Low Rush",
+      "tier": "S",
+      "topCuts": 111,
+      "firstRate": 35.1,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Bahamut"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Blitz"
+        },
+        {
+          "kind": "overBlade",
+          "name": "Break"
+        },
+        {
+          "kind": "assist",
+          "name": "Heavy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-50"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw015",
+      "label": "Bullet Griffon Hexa",
+      "tier": "A",
+      "topCuts": 272,
+      "firstRate": 33.1,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Bullet Griffon"
+        },
+        {
+          "kind": "bit",
+          "name": "Hexa"
+        }
+      ],
+      "note": "Ratchet tidak tercantum di sumber; periksa apakah blade ini memakai ratchet terintegrasi."
+    },
+    {
+      "id": "bw016",
+      "label": "Phoenix Wing 3-60 Rush",
+      "tier": "A",
+      "topCuts": 3003,
+      "firstRate": 33.0,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Phoenix Wing"
+        },
+        {
+          "kind": "ratchet",
+          "name": "3-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw017",
+      "label": "Silver Wolf 9-60 Free Ball",
+      "tier": "A",
+      "topCuts": 1770,
+      "firstRate": 32.0,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Silver Wolf"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw018",
+      "label": "Hells Nether Free Ball",
+      "tier": "A",
+      "topCuts": 163,
+      "firstRate": 31.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Hells Nether"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": "Ratchet tidak tercantum di sumber; periksa apakah blade ini memakai ratchet terintegrasi."
+    },
+    {
+      "id": "bw019",
+      "label": "Heavens Ring 9-60 Free Ball",
+      "tier": "A",
+      "topCuts": 65,
+      "firstRate": 32.3,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Heavens Ring"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw020",
+      "label": "Tyranno Beat 1-60 Rush",
+      "tier": "A",
+      "topCuts": 1108,
+      "firstRate": 32.3,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Tyranno Beat"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw021",
+      "label": "Golem Rock 9-60 Free Ball",
+      "tier": "A",
+      "topCuts": 640,
+      "firstRate": 29.5,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Golem Rock"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw022",
+      "label": "Hells Scythe 9-60 Ball",
+      "tier": "A",
+      "topCuts": 299,
+      "firstRate": 33.1,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Hells Scythe"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Ball"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw023",
+      "label": "Dran Dagger 4-60 Rush",
+      "tier": "B",
+      "topCuts": 97,
+      "firstRate": 30.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Dran Dagger"
+        },
+        {
+          "kind": "ratchet",
+          "name": "4-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw024",
+      "label": "Ragna Rage Flow Heavy 1-60 Rush",
+      "tier": "B",
+      "topCuts": 70,
+      "firstRate": 32.9,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Ragna"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Rage"
+        },
+        {
+          "kind": "overBlade",
+          "name": "Flow"
+        },
+        {
+          "kind": "assist",
+          "name": "Heavy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw025",
+      "label": "Sol Eclipse Heavy 9-60 Kick",
+      "tier": "B",
+      "topCuts": 92,
+      "firstRate": 32.6,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Sol"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Eclipse"
+        },
+        {
+          "kind": "assist",
+          "name": "Heavy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw026",
+      "label": "Shark Edge 3-60 Low Flat",
+      "tier": "B",
+      "topCuts": 418,
+      "firstRate": 30.4,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Shark Edge"
+        },
+        {
+          "kind": "ratchet",
+          "name": "3-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Flat"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw027",
+      "label": "Wizard Arrow 1-60 Hexa",
+      "tier": "B",
+      "topCuts": 92,
+      "firstRate": 28.3,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Wizard Arrow"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Hexa"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw028",
+      "label": "Scorpio Spear 9-60 Free Ball",
+      "tier": "B",
+      "topCuts": 452,
+      "firstRate": 31.0,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Scorpio Spear"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw029",
+      "label": "Clock Mirage 4-55 Low Orb",
+      "tier": "B",
+      "topCuts": 308,
+      "firstRate": 29.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Clock Mirage"
+        },
+        {
+          "kind": "ratchet",
+          "name": "4-55"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Orb"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw030",
+      "label": "Impact Drake 9-60 Low Rush",
+      "tier": "B",
+      "topCuts": 311,
+      "firstRate": 31.8,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Impact Drake"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw031",
+      "label": "Samurai Saber 1-60 Hexa",
+      "tier": "B",
+      "topCuts": 213,
+      "firstRate": 30.0,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Samurai Saber"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Hexa"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw032",
+      "label": "Crimson Garuda 9-70 Kick",
+      "tier": "B",
+      "topCuts": 79,
+      "firstRate": 29.1,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Crimson Garuda"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-70"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw033",
+      "label": "Dran Sword 3-60 Flat",
+      "tier": "B",
+      "topCuts": 185,
+      "firstRate": 27.6,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Dran Sword"
+        },
+        {
+          "kind": "ratchet",
+          "name": "3-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Flat"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw034",
+      "label": "Dran Buster 1-60 Low Flat",
+      "tier": "B",
+      "topCuts": 469,
+      "firstRate": 33.5,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Dran Buster"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Flat"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw035",
+      "label": "Knight Mail 1-60 Rush",
+      "tier": "B",
+      "topCuts": 530,
+      "firstRate": 29.2,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Knight Mail"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw036",
+      "label": "Samurai Calibur 7-60 Rush",
+      "tier": "B",
+      "topCuts": 191,
+      "firstRate": 28.3,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Samurai Calibur"
+        },
+        {
+          "kind": "ratchet",
+          "name": "7-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw037",
+      "label": "Hells Chain 9-60 Ball",
+      "tier": "B",
+      "topCuts": 122,
+      "firstRate": 33.6,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Hells Chain"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Ball"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw038",
+      "label": "Valor Bison Free Ball",
+      "tier": "B",
+      "topCuts": 70,
+      "firstRate": 27.1,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Valor Bison"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": "Ratchet tidak tercantum di sumber; periksa apakah blade ini memakai ratchet terintegrasi."
+    },
+    {
+      "id": "bw039",
+      "label": "Whale Wave 1-60 Low Rush",
+      "tier": "C",
+      "topCuts": 255,
+      "firstRate": 29.4,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Whale Wave"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw040",
+      "label": "Hells Hammer 3-60 Kick",
+      "tier": "C",
+      "topCuts": 113,
+      "firstRate": 24.8,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Hells Hammer"
+        },
+        {
+          "kind": "ratchet",
+          "name": "3-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw041",
+      "label": "Roar Tyranno 1-60 Rush",
+      "tier": "C",
+      "topCuts": 144,
+      "firstRate": 28.5,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Roar Tyranno"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw042",
+      "label": "Cobalt Drake 9-60 Rush",
+      "tier": "C",
+      "topCuts": 113,
+      "firstRate": 30.1,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Cobalt Drake"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw043",
+      "label": "Dran Brave Jaggy 3-60 Low Rush",
+      "tier": "C",
+      "topCuts": 113,
+      "firstRate": 26.5,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Dran"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Brave"
+        },
+        {
+          "kind": "assist",
+          "name": "Jaggy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "3-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Rush"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw044",
+      "label": "Orochi Cluster 7-60 Kick",
+      "tier": "C",
+      "topCuts": 62,
+      "firstRate": 22.6,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Orochi Cluster"
+        },
+        {
+          "kind": "ratchet",
+          "name": "7-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw045",
+      "label": "Weiss Tiger 6-60 Kick",
+      "tier": "C",
+      "topCuts": 61,
+      "firstRate": 23.0,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Weiss Tiger"
+        },
+        {
+          "kind": "ratchet",
+          "name": "6-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Kick"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw046",
+      "label": "Unicorn Sting 5-60 Orb",
+      "tier": "C",
+      "topCuts": 218,
+      "firstRate": 28.9,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Unicorn Sting"
+        },
+        {
+          "kind": "ratchet",
+          "name": "5-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Orb"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bw047",
+      "label": "Croc Tread Heavy 5-50 Hexa",
+      "tier": "",
+      "topCuts": 12,
+      "firstRate": 50.0,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Croc"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Tread"
+        },
+        {
+          "kind": "assist",
+          "name": "Heavy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "5-50"
+        },
+        {
+          "kind": "bit",
+          "name": "Hexa"
+        }
+      ],
+      "note": "Sampel kecil: belum bertier di sumber."
+    },
+    {
+      "id": "bw048",
+      "label": "Wizard Arc Free 9-60 Free Ball",
+      "tier": "",
+      "topCuts": 44,
+      "firstRate": 34.1,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Wizard"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Arc"
+        },
+        {
+          "kind": "assist",
+          "name": "Free"
+        },
+        {
+          "kind": "ratchet",
+          "name": "9-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Free Ball"
+        }
+      ],
+      "note": "Sampel kecil: belum bertier di sumber."
+    },
+    {
+      "id": "bw049",
+      "label": "Hells Reaper Jaggy 5-60 Unite",
+      "tier": "",
+      "topCuts": 25,
+      "firstRate": 36.0,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Hells"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Reaper"
+        },
+        {
+          "kind": "assist",
+          "name": "Jaggy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "5-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Unite"
+        }
+      ],
+      "note": "Sampel kecil: belum bertier di sumber."
+    },
+    {
+      "id": "bw050",
+      "label": "Fox Brush Jaggy 1-60 Level",
+      "tier": "",
+      "topCuts": 44,
+      "firstRate": 22.7,
+      "parts": [
+        {
+          "kind": "lockChip",
+          "name": "Fox"
+        },
+        {
+          "kind": "mainBlade",
+          "name": "Brush"
+        },
+        {
+          "kind": "assist",
+          "name": "Jaggy"
+        },
+        {
+          "kind": "ratchet",
+          "name": "1-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Level"
+        }
+      ],
+      "note": "Sampel kecil: belum bertier di sumber."
+    },
+    {
+      "id": "bw051",
+      "label": "Leon Claw 5-60 Point",
+      "tier": "",
+      "topCuts": 25,
+      "firstRate": 20.0,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Leon Claw"
+        },
+        {
+          "kind": "ratchet",
+          "name": "5-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Point"
+        }
+      ],
+      "note": "Sampel kecil: belum bertier di sumber."
+    },
+    {
+      "id": "bw052",
+      "label": "Gill Shark 3-60 Low Rush",
+      "tier": "",
+      "topCuts": 17,
+      "firstRate": 17.6,
+      "parts": [
+        {
+          "kind": "blade",
+          "name": "Gill Shark"
+        },
+        {
+          "kind": "ratchet",
+          "name": "3-60"
+        },
+        {
+          "kind": "bit",
+          "name": "Low Rush"
+        }
+      ],
+      "note": "Sampel kecil: belum bertier di sumber."
+    }
+  ]
+}
